@@ -1,0 +1,16 @@
+{
+  "name": "nodelogin",
+  "version": "1.0.0",
+  "description": "Login pge",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0"
+  }
+}
